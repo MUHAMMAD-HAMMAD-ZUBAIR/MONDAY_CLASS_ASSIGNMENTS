@@ -172,7 +172,7 @@ rich>=13.0
 
 ## 🙌 About the Author
 
-**👨‍💻 Muhammad Hammad Zubair**  
+**👨‍💻 UHAMMAD HAMMAD ZUBAIR **  
 Full-Stack Developer • AI Agent Enthusiast • Panaverse Student  
 🔗 GitHub: https://github.com/MUHAMMAD‑HAMMAD‑ZUBAIR
 
