@@ -3,11 +3,8 @@
 **Built With:** [OpenAI Agents SDK – Gemini Edition]  
 **👤 Author:** MUHAMMAD HAMMAD ZUBAIR
 
-📌 **Assignment Details / Reference:**  
-https://docs.google.com/document/d/1gZwuQuW5HTjNEVTfaGX56brdR5I0oj11/edit?usp=sharing  
-
 📌 **Submission Link / Assignment Form:**  
-https://forms.gle/PaJHC5qMNQE2VjyK9
+https://forms.gle/PaJHC5qMNQE2VjyK9](https://forms.gle/PaJHC5qMNQE2VjyK9
 
 ---
 
@@ -209,4 +206,5 @@ Full-Stack Developer • AI Agent Enthusiast • GIAIC Student
 🔗 GitHub: [https://github.com/MUHAMMAD-HAMMAD-ZUBAIR](https://github.com/MUHAMMAD-HAMMAD-ZUBAIR)
 
 ```
+
 
