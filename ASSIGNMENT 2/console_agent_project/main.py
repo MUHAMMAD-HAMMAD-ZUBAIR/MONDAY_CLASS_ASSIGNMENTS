@@ -1,3 +1,6 @@
+# 🌍 Smart Country Info Agent using Gemini API via OpenAI Adapter
+# 👨‍💻 Author: Muhammad Hammad Zubair
+
 from context_model import UserContext
 from agents.triage_agent import triage_agent
 from utils.guardrail import apply_guardrails
