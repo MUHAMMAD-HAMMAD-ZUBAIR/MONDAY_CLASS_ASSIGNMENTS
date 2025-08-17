@@ -63,7 +63,7 @@ If you are a fellow student or instructor and would like to give feedback, feel 
 - Open an **Issue**
 - Create a **Pull Request**
 - Contact me directly on [LinkedIn](https://www.linkedin.com/in/muhammad-hammad-zubair-4046082ba/)
-
+- Contact me directly on [X](https://x.com/M_HAMMAD_ZUBAIR)
 ---
 
 ## 🙌 Acknowledgements
