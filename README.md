@@ -24,11 +24,14 @@ This public GitHub repository is strictly maintained for:
 
 MON...
 ├── ASSIGNMENT 1/
-│   └── 🧠 Task-based files, codes, and documentation
-├── ASSIGNMENT 2/
-│   └── 🧠 Latest assignment solutions
+│   └── 🤖 Agentic SDK Assignments – MUHAMMAD HAMMAD ZUBAIR
 └── README.md
-
+├── ASSIGNMENT 2/
+│   └── 🤖 M.H.Z Console-Based Support Agent System
+└── README.md
+├── ASSIGNMENT 3/
+│   └── 📚 M.H.Z Intelligent Library Assistant
+└── README.md
 ```
 
 Each assignment is uploaded in a separate folder named:  
